@@ -1,6 +1,6 @@
 # Static-Dynamic-Algorithms
 Contains basic Static and Dynamic Algorithms that are discussed in the popular book "Introduction to algorithm". These algorithms are implemented using C and C++.
-<br/><br/>
+<br/>
 ## Static Algorithms
 <b>1. </b><a href="https://github.com/ishan-modi/Static-Dynamic-Algorithms/blob/master/static_algorithms/activity_selection.cpp">Activity Selection</a><br/>
 <b>2. </b><a href="https://github.com/ishan-modi/Static-Dynamic-Algorithms/blob/master/static_algorithms/dijkstra.cpp">Dijkstra</a><br/>
